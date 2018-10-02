@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  AI-FSM.cpp
+c:\users\hopet\source\repos\ai-fsm\ai-fsm\ai-fsm.cpp(43): warning C4101: 'Quoting': unreferenced local variable
+c:\users\hopet\source\repos\ai-fsm\ai-fsm\ai-fsm.cpp(44): warning C4101: 'Transacting': unreferenced local variable
+c:\users\hopet\source\repos\ai-fsm\ai-fsm\ai-fsm.cpp(42): warning C4101: 'Avalible': unreferenced local variable
+  AI-FSM.vcxproj -> C:\Users\hopet\source\repos\AI-FSM\Debug\AI-FSM.exe
